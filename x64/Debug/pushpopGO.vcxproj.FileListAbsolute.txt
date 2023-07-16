@@ -1,0 +1,3 @@
+C:\Users\ranja\OneDrive\Desktop\6th_sem\6.Lab\CG\pushpopGO\x64\Debug\pushpopGO.exe
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\x64\Debug\pushpopGO.exe
+C:\Users\ADMIN\Desktop\miniproject\pushpopGO\x64\Debug\pushpopGO.exe

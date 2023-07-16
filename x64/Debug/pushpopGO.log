@@ -1,0 +1,200 @@
+﻿  Source.cpp
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(26,49): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(26,49): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(27,48): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(27,48): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(30,10): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(50,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(52,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(53,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(55,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(56,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(57,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(58,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(103,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(104,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(105,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(106,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(107,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(108,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(109,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(110,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(111,42): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(112,43): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(147,60): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(147,75): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(181,41): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\start.h(181,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\flag.h(13,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\flag.h(17,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\flag.h(22,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\flag.h(26,12): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\flag.h(37,26): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\flag.h(34,30): warning C4101: 'y3': unreferenced local variable
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\flag.h(35,40): warning C4101: 'y3t': unreferenced local variable
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(28,17): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(37,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(40,18): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(43,18): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(46,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(51,18): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(72,19): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(75,19): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(82,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(82,80): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(86,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(89,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(95,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(101,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(106,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(107,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(136,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(154,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(160,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(168,63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(174,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(175,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(183,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(183,60): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(203,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(203,78): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(209,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(215,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(227,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(228,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(239,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(239,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(240,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(253,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(254,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(259,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(260,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(261,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(262,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(264,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(265,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(266,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(267,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(273,65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(273,95): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(273,122): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(278,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(313,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(321,26): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(321,26): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(321,54): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(321,49): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(321,49): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(326,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(326,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(327,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(335,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(335,72): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(337,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(338,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(356,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(357,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(358,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(359,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(378,68): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(388,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(389,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(390,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(401,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(402,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(409,54): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(410,54): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(418,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(420,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(431,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(432,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(457,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(464,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(469,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(470,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(475,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(482,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(490,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(490,74): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(495,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(496,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(496,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(508,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(509,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(511,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(512,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(529,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(529,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(529,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(546,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(546,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(555,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(558,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(564,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(564,70): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(570,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(571,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(572,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(580,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(581,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(582,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(587,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(588,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(589,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(594,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(595,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(596,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(605,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(605,74): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(610,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(611,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(611,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(612,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(631,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(631,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(632,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(645,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(645,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(662,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(662,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(663,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(673,54): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(682,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(682,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(683,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(698,48): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(698,96): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(699,46): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(701,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(701,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(702,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(716,50): warning C4312: 'type cast': conversion from 'const int' to 'void *' of greater size
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(718,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(718,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(719,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(733,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(733,62): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(737,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(738,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(749,56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(769,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(773,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(773,72): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(777,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(778,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(787,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(796,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(805,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(806,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(807,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(809,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(817,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(887,27): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(888,19): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(897,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(897,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(898,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(912,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(948,31): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\Source.cpp(958,31): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  pushpopGO.vcxproj -> C:\Users\ranja\OneDrive\Desktop\miniproject\pushpopGO\x64\Debug\pushpopGO.exe
